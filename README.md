@@ -4,10 +4,10 @@ Hello! 👋 Welcome to my profile!
 
 About me:
 
-🎓 BSc. in International Relations from UFABC
-🎓 BSc. in Science and Humanities from UFABC
-🎓 BSc. in Information System from UNIFACS
-⚡ Full Stack Web Developer from Cubos Academy
+🎓 BSc. in International Relations from UFABC <br>
+🎓 BSc. in Science and Humanities from UFABC <br>
+🎓 BSc. in Information System from UNIFACS <br>
+⚡ Full Stack Web Developer from Cubos Academy <br>
 🚩 Addicted to jumping rope!
 
 Currently Learning:
