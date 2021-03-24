@@ -1,16 +1,21 @@
-### Hi there 👋
+Hello! 👋 Welcome to my profile!
 
-<!--
-**RaquelRRios/RaquelRRios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Let's get to know each other?
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 BSc. in International Relations from UFABC
+🎓 BSc. in Science and Humanities from UFABC
+🎓 BSc. in Information System from UNIFACS
+⚡ Full Stack Web Developer from Cubos Academy
+🚩 Addicted to jumping rope!
+
+Currently Learning:
+
+✔️ Javascript <br>
+✔️ HTML5 <br>
+✔️ CSS3 <br>
+✔️ NodeJS <br>
+✔️ ReactJS <br>
+✔️ Koa <br>
+✔️ PostgreSQL
