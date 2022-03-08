@@ -13,10 +13,8 @@ About me:
 Currently Learning:
 
 ✔️ Java Spring Boot<br>
+✔️ Angular<br>
 ✔️ Javascript <br>
 ✔️ HTML5 <br>
 ✔️ CSS3 <br>
-✔️ NodeJS <br>
-✔️ ReactJS <br>
-✔️ Koa <br>
 ✔️ PostgreSQL
