@@ -8,7 +8,7 @@ About me:
 🎓 BSc. in Science and Humanities from UFABC <br>
 🎓 BSc. in Information System from UNIFACS <br>
 ⚡ Full Stack Web Developer from Cubos Academy <br>
-⚡ Full Stack Web Developer (Angular and Java) at Betha Sistemas <br>
+⚡ Full Stack Web Developer (Angular JS and Java) at Betha Sistemas <br>
 🚩 Addicted to gym, beach and bike!
 
 Currently Learning:
