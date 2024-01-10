@@ -8,15 +8,14 @@ About me:
 🎓 BSc. in Science and Humanities from UFABC <br>
 🎓 BSc. in Information System from UNIFACS <br>
 ⚡ Full Stack Web Developer from Cubos Academy <br>
-⚡ Full Stack Web Developer (Angular and Java) at Accesstage <br>
-⚡ Back End Developer (Java) at NtConsult <br>
-🚩 Addicted to pilates, beach and bike!
+⚡ Full Stack Web Developer (Angular and Java) at Betha Sistemas <br>
+🚩 Addicted to gym, beach and bike!
 
 Currently Learning:
 
 ✔️ Java Spring Boot<br>
-✔️ Angular<br>
-✔️ Javascript <br>
+✔️ Angular JS<br>
 ✔️ HTML5 <br>
 ✔️ CSS3 <br>
 ✔️ PostgreSQL
+✔️ Git
