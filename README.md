@@ -17,5 +17,5 @@ Currently Learning:
 ✔️ Angular JS<br>
 ✔️ HTML5 <br>
 ✔️ CSS3 <br>
-✔️ PostgreSQL
+✔️ PostgreSQL <br>
 ✔️ Git
